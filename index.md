@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 2: Friday, January 13, 2023
+  - **In class**:
+    - Questions over the [CSC 226 Course syllabus](https://docs.google.com/document/d/1oITlakZtVYJkMwvIh-suRiOvL49R2NSt-UlekHNoG18/edit?usp=sharing), and reading [Chapter 1: Introduction](https://runestone.academy/assignments/doAssignment?assignment_id=125438)?
+    - Quiz Q00
+    - Launch [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).
+    - **NO CLASS ON MONDAY!!!**
+  - **After class (before Friday's class)**:
+    - Complete all of [A00: Getting Started](https://docs.google.com/document/d/1sxHh5a06HcQEZcAYfzr9kV3JhwVCLjSASchVZN4xqL0/edit?usp=sharing).
+
 ## Day 1: Wednesday, January 11, 2023
   - **In class**:
     - Welcome
