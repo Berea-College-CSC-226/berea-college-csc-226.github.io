@@ -2,13 +2,21 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 3: Wednesday, January 18, 2023
+  - **In class**:
+    - TA Day!!!
+    - Work on [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).  We will likely move on to T01 on Friday, but no worries if you are still getting finished!
+    - Launch [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
+  - **After class (before Friday's class)**:
+    - Read [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=125960) in preparation for a reading quiz next time.  Be sure you are logged in to the book when reading, and do all activities to get credit! On Friday, we will have a quiz.
+
 ## Day 2: Friday, January 13, 2023
   - **In class**:
     - Questions over the [CSC 226 Course syllabus](https://docs.google.com/document/d/1oITlakZtVYJkMwvIh-suRiOvL49R2NSt-UlekHNoG18/edit?usp=sharing), and reading [Chapter 1: Introduction](https://runestone.academy/assignments/doAssignment?assignment_id=125438)?
     - Quiz Q00
     - Launch [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).
     - **NO CLASS ON MONDAY!!!**
-  - **After class (before Friday's class)**:
+  - **After class (before Wednesday's class)**:
     - Complete all of [A00: Getting Started](https://docs.google.com/document/d/1sxHh5a06HcQEZcAYfzr9kV3JhwVCLjSASchVZN4xqL0/edit?usp=sharing).
 
 ## Day 1: Wednesday, January 11, 2023
