@@ -6,7 +6,7 @@
   - **In class**:
     - Questions on [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=125960)?
     - Quiz Q01
-    - Work on [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).  We will likely move on to T01 on Friday, but no worries if you are still getting finished!
+    - Finish up [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).
     - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
     - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
   - **After class (before Friday's class)**:
