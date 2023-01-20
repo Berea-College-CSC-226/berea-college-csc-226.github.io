@@ -9,7 +9,7 @@
     - Finish up [T00: Exploring Pycharm](https://docs.google.com/document/d/1_nVdmdRr1uLURiQpgSB0N0iHi_yyL_ewXkrcmeQ67Gw/edit?usp=sharing).
     - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
     - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
-  - **After class (before Friday's class)**:
+  - **After class (before Monday's class)**:
     - Read [Chapter 3: Debugging Interlude](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126553) in preparation for a reading quiz next time.  Be sure you are logged in to the book when reading, and do all activities to get credit! On Monday, we will have a quiz.
     - Work on on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
 
