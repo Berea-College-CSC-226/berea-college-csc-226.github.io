@@ -10,7 +10,7 @@
     - Finish up [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
     - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing)?
   - **After class**:
-    - Assignment for [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126553) is posted.  **It is due on Friday**.
+    - Assignment for [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126757) is posted.  **It is due on Friday**.
     - Complete [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
 
 ## Day 4: Friday, January 20, 2023
