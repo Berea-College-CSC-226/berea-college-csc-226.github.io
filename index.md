@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 5: Monday, January 23, 2023
+  - **In class**:
+    - **HAPPY LUNAR NEW YEAR (yesterday)!!!  Stories or fun facts to share?**
+    - Questions on [Chapter 3: Debugging Interlude](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126553)?
+    - Quiz Q02
+    - Finish up [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
+    - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing)?
+  - **After class**:
+    - Assignment for [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126553) is posted.  **It is due on Friday**.
+    - Complete [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
+
 ## Day 4: Friday, January 20, 2023
   - **In class**:
     - Questions on [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=125960)?
@@ -11,7 +22,7 @@
     - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
   - **After class (before Monday's class)**:
     - Read [Chapter 3: Debugging Interlude](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126553) in preparation for a reading quiz next time.  Be sure you are logged in to the book when reading, and do all activities to get credit! On Monday, we will have a quiz.
-    - Work on on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
+    - Work on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
 
 ## Day 3: Wednesday, January 18, 2023
   - **In class**:
