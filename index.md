@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 6: Wednesday, January 23, 2023
+  - **In class**:
+    - Debrief on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
+    - Finish up [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
+    - Swap teams and start [T02: Exploring Turtles](https://docs.google.com/document/d/1K0IgmNd3mLsrH1W5EZc_zWMZQzACOE3GVCenM5MPw_k/edit?usp=sharing)?
+    - Launch A02 (link coming soon)
+  - **After class**:
+    - Assignment for [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126757) is posted.  **It is due on Friday**.
+    - Work on A02 (link coming soon).
+
 ## Day 5: Monday, January 23, 2023
   - **In class**:
     - **HAPPY LUNAR NEW YEAR (yesterday)!!!  Stories or fun facts to share?**
