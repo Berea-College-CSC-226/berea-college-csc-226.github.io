@@ -4,6 +4,7 @@
 
 ## Day 6: Wednesday, January 23, 2023
   - **In class**:
+    - How about a stint as a TA?  Time for reaching out to get the ball rolling!
     - Debrief on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
     - Finish up [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1_IyBCJSKLWSnzoNvhAY5y4LEMCK2Nk2_4upAvhqwIPw/edit?usp=sharing).
     - Swap teams and start [T02: Exploring Turtles](https://docs.google.com/document/d/1K0IgmNd3mLsrH1W5EZc_zWMZQzACOE3GVCenM5MPw_k/edit?usp=sharing)?
