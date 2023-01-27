@@ -2,7 +2,7 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
-## Day 7: Friday, January 25, 2023
+## Day 7: Friday, January 27, 2023
   - **In class**:
     - Questions on [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126757)?
     - Quiz Q03
@@ -12,7 +12,7 @@
     - Reading for [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=127349) is posted.  **It is due on Monday**.
     - Work on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1vAqcj4uPS1wz8HYvwv_nYLqsZHuvoqtMus3lFm3gQt4/edit?usp=sharing).
 
-## Day 6: Wednesday, January 23, 2023
+## Day 6: Wednesday, January 25, 2023
   - **In class**:
     - How about a stint as a TA?  Time for reaching out to get the ball rolling!
     - Debrief on [A01: Breaking Bad](https://docs.google.com/document/d/1dLAxCUwjiook36-K7GgNawZneWuZTCAa8S3moBml82Q/edit?usp=sharing).
