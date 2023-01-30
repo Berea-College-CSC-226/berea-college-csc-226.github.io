@@ -6,7 +6,7 @@
   - **In class**:
     - Questions on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=127349)?
     - Quiz Q04
-    - Continue [T02: Exploring Turtles](https://docs.google.com/document/d/1K0IgmNd3mLsrH1W5EZc_zWMZQzACOE3GVCenM5MPw_k/edit?usp=sharing)?
+    - Continue [T02: Exploring Turtles](https://docs.google.com/document/d/1K0IgmNd3mLsrH1W5EZc_zWMZQzACOE3GVCenM5MPw_k/edit?usp=sharing).
   - **After class**:
     - Reading for [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=127578) is posted.  **It is due on Friday**.
     - Complete [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1vAqcj4uPS1wz8HYvwv_nYLqsZHuvoqtMus3lFm3gQt4/edit?usp=sharing).
