@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 9: Wednesday, February 1, 2023
+  - **In class**:
+    - **ART SHOW FOR [A02](https://docs.google.com/document/d/1vAqcj4uPS1wz8HYvwv_nYLqsZHuvoqtMus3lFm3gQt4/edit?usp=sharing)!!!!!**
+    - Continue/finish [T02: Exploring Turtles](https://docs.google.com/document/d/1K0IgmNd3mLsrH1W5EZc_zWMZQzACOE3GVCenM5MPw_k/edit?usp=sharing).
+    - Launch A03 (link coming soon).
+  - **After class**:
+    - Reading for [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=127578) is posted.  **It is due on Friday**.
+    - Work on A03 (link coming soon).
+
 ## Day 8: Monday, January 30, 2023
   - **In class**:
     - Questions on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=127349)?
