@@ -4,6 +4,7 @@
 
 ## Day 12: Wednesday, February 8, 2023
   - **In class**:
+    - **Announcements for teamwork, and checking reading assignment grades in Moodle.**
     - Finish [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1s6cwilkha3c8Gq1EBQVQjiZ9P36ksflF5hOw8OaGSCg/edit?usp=sharing).
     - Launch [AR1: Review for Exam 1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
   - **After class**:
