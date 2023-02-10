@@ -8,7 +8,7 @@
     - Quiz Q07
     - Launch [T04: Unit Testing](https://docs.google.com/document/d/1a0u70uh3LFfhZZamk_YBqXI0L172jionRVgHyFG6GlQ/edit?usp=sharing).
   - **After class**:
-    - Reading for [Chapter 9: Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129334) is posted.  **It is due on Monday**.
+    - Reading for [Chapter 9: Strings Sections 1-14, 16-21](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129334) is posted.  **It is due on Monday.  SECTION 15 IS NOT REQUIRED!!!**.
     - Work on [AR1: Review for Exam 1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
 
 ## Day 12: Wednesday, February 8, 2023
