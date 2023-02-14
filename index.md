@@ -2,6 +2,14 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 15: Wednesday, February 15, 2023
+  - **In class**:
+    - A brief word about applying for the major
+    - Launch [TR1: Review Questions for Exam 1](https://docs.google.com/document/d/10T7LY34xt_A0zf88jiWSMIlwoHI0b1EFDwcveKX1DPk/edit?usp=sharing).
+  - **After class**:
+    - **NO READING THIS WEEK!  First half of [Chapter 10: Lists (Part 1: 10.1 - 10.14)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129524) will be due on Monday.**
+    - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1CabAvQXmuaa_8Ri2-WEVvrDmvYdXj8iFYJsVunI4NTA/edit?usp=sharing).
+
 ## Day 14: Monday, February 13, 2023
   - **In class**:
     - Questions on [Chapter 9: Strings Sections 1-14, 16-21](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129334)?
