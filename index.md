@@ -4,6 +4,7 @@
 
 ## Day 15: Wednesday, February 15, 2023
   - **In class**:
+    - **Review Session next Wednesday, 22 Feb, at LAB TIME**
     - A brief word about applying for the major
     - Work on [TR1: Review Questions for Exam 1](https://docs.google.com/document/d/10T7LY34xt_A0zf88jiWSMIlwoHI0b1EFDwcveKX1DPk/edit?usp=sharing).
   - **After class**:
