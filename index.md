@@ -4,7 +4,7 @@
 
 ## Day 17: Monday, February 20, 2023
   - **In class**:
-    - **Review Session next Wednesday, 22 Feb, at LAB TIME**
+    - **Review Session THIS Wednesday, 22 Feb, at LAB TIME**
     - [Exam 1 Review](https://docs.google.com/document/d/17jSRCohol5f_pHdIVpZFSCuOnA1ZmFj0Gq1voaJGbBE/edit?usp=sharing) is ready!
     - [Review Key](https://docs.google.com/document/d/1yRzIt8pCd031p5QPDWn-V_6HO7G6XhuZtu39eUGhHfA/edit?usp=sharing).  **There are a few corrections noted in red**.
     - Work on [T04: Unit Testing](https://docs.google.com/document/d/1a0u70uh3LFfhZZamk_YBqXI0L172jionRVgHyFG6GlQ/edit?usp=sharing).
