@@ -2,6 +2,14 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 19: Friday, February 24, 2023
+  - **In class**:
+    - **Exam 1**
+  - **After class**:
+    - First half of [Chapter 10: Lists (Part 1: 10.1 - 10.14)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129524) will be due ON Monday with a quiz.
+    - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1CabAvQXmuaa_8Ri2-WEVvrDmvYdXj8iFYJsVunI4NTA/edit?usp=sharing) (due ON Wednesday).
+    - We will return to [T05: Buggy Fruit](https://docs.google.com/document/d/157IxMZl-vDGf5eoSOSZoDwL6fqYPmSxHBgKFbguKrf4/edit?usp=sharing) on Monday.
+
 ## Day 18: Wednesday, February 22, 2023
   - **In class**:
     - **Review Session TONIGHT: Wednesday, 22 Feb, at LAB TIME - DT104**
