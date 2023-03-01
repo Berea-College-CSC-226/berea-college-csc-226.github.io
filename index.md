@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 21: Wednesday, March 1, 2023
+  - **In class**:
+    - [T05: Buggy Fruit](https://docs.google.com/document/d/157IxMZl-vDGf5eoSOSZoDwL6fqYPmSxHBgKFbguKrf4/edit?usp=sharing).
+    - Launch [T06: Funky Functions](https://docs.google.com/document/d/1O7y0bF1cH7PXKxNnX1fhsZyheBBJqfCi7QJP-TQ_rYw/edit?usp=sharing)?
+    - Launch [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
+  - **After class**:
+    - Second half of [Chapter 10: Lists (Part 2: 10.16 - 10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=130530) will be due ON Friday with a quiz.
+    - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
+
 ## Day 20: Monday, February 27, 2023
   - **In class**:
     - Recap test
