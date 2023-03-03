@@ -6,8 +6,7 @@
   - **In class**:
     - Questions on [Chapter 10: Lists (Part 2: 10.16 - 10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=130530)?
     - Quiz Q10
-    - Launch [T06: Funky Functions](https://docs.google.com/document/d/1O7y0bF1cH7PXKxNnX1fhsZyheBBJqfCi7QJP-TQ_rYw/edit?usp=sharing)?
-    - Launch [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
+    - Work on [T06: Funky Functions](https://docs.google.com/document/d/1O7y0bF1cH7PXKxNnX1fhsZyheBBJqfCi7QJP-TQ_rYw/edit?usp=sharing)?
   - **After class**:
     - Reading for [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131090) is posted.  **It is due on th Monday following Spring Break!**.
     - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
