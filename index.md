@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 23: Monday, March 13, 2023
+  - **In class**:
+    - Questions on [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131090)?
+    - Quiz Q11
+    - Questions on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing)?
+    - Launch [T07: Mad Libs](https://docs.google.com/document/d/1WSO_sWxf14tbWnVqYFlVxF-dHFbT4lCPxW4zVOGIWwA/edit?usp=sharing).
+  - **After class**:
+    - Reading for [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131726) is posted.  **It is due on Friday.**.
+    - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).  **It is due Wednesday.**
+
 ## Day 22: Friday, March 3, 2023
   - **In class**:
     - Questions on [Chapter 10: Lists (Part 2: 10.16 - 10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=130530)?
