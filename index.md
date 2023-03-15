@@ -2,12 +2,24 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 24: Wednesday, March 15, 2023
+  - **In class**:
+    - Debrief on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
+    - Reteam!
+    - Launch [T07: Mad Libs](https://docs.google.com/document/d/1WSO_sWxf14tbWnVqYFlVxF-dHFbT4lCPxW4zVOGIWwA/edit?usp=sharing).
+    - Launch [A06: It's In Your Genes](https://docs.google.com/document/d/116qwZdy8nwQJIV8NUjHHebqTs_NezXfEgtCq3msRMVk/edit?usp=sharing).
+    - Launch [AR2: Top Down Design](https://docs.google.com/document/d/1sIopCa7slfT8-UK7Qfdh1XySXb0grAe6iM0k8Ic5FBg/edit?usp=sharing).
+  - **After class**:
+    - Reading for [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131726) is posted.  **It is due on Friday.**.
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/116qwZdy8nwQJIV8NUjHHebqTs_NezXfEgtCq3msRMVk/edit?usp=sharing).
+    - Work on [AR2: Top Down Design](https://docs.google.com/document/d/1sIopCa7slfT8-UK7Qfdh1XySXb0grAe6iM0k8Ic5FBg/edit?usp=sharing).
+
 ## Day 23: Monday, March 13, 2023
   - **In class**:
     - Questions on [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131090)?
     - Quiz Q11
     - Questions on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing)?
-    - Launch [T07: Mad Libs](https://docs.google.com/document/d/1WSO_sWxf14tbWnVqYFlVxF-dHFbT4lCPxW4zVOGIWwA/edit?usp=sharing).
+    - ~~Launch [T07: Mad Libs](https://docs.google.com/document/d/1WSO_sWxf14tbWnVqYFlVxF-dHFbT4lCPxW4zVOGIWwA/edit?usp=sharing).~~
   - **After class**:
     - Reading for [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131726) is posted.  **It is due on Friday.**.
     - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).  **It is due Wednesday.**
