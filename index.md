@@ -2,6 +2,20 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+https://docs.google.com/document/d/1qX-XlebRiRN_px7sTMu0S-Im3cK2DNA8hlnb7OCS4fQ/edit?usp=sharing
+
+## Day 25: Friday, March 17, 2023
+  - **In class**:
+    - Questions on [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131726)?
+    - Quiz Q12
+    - Questions on [A06: It's In Your Genes](https://docs.google.com/document/d/116qwZdy8nwQJIV8NUjHHebqTs_NezXfEgtCq3msRMVk/edit?usp=sharing) or [AR2: Top Down Design](https://docs.google.com/document/d/1sIopCa7slfT8-UK7Qfdh1XySXb0grAe6iM0k8Ic5FBg/edit?usp=sharing)?
+    - Complete [T07: Mad Libs](https://docs.google.com/document/d/1WSO_sWxf14tbWnVqYFlVxF-dHFbT4lCPxW4zVOGIWwA/edit?usp=sharing).
+    - Launch [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1qX-XlebRiRN_px7sTMu0S-Im3cK2DNA8hlnb7OCS4fQ/edit?usp=sharing)?
+  - **After class**:
+    - Reading for [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132089) is posted.  **It is due on Monday.**.
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/116qwZdy8nwQJIV8NUjHHebqTs_NezXfEgtCq3msRMVk/edit?usp=sharing).
+    - Work on [AR2: Top Down Design](https://docs.google.com/document/d/1sIopCa7slfT8-UK7Qfdh1XySXb0grAe6iM0k8Ic5FBg/edit?usp=sharing) **Also due Monday.**.
+
 ## Day 24: Wednesday, March 15, 2023
   - **In class**:
     - Debrief on [A05: The Game of Nim](https://docs.google.com/document/d/1-aUVjkCOEEIHYc9tZLcE8wHg1pMUu3acEnXnGYsgQcQ/edit?usp=sharing).
