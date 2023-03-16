@@ -2,8 +2,6 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
-https://docs.google.com/document/d/1qX-XlebRiRN_px7sTMu0S-Im3cK2DNA8hlnb7OCS4fQ/edit?usp=sharing
-
 ## Day 25: Friday, March 17, 2023
   - **In class**:
     - Questions on [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131726)?
