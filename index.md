@@ -6,7 +6,7 @@
   - **In class**:
     - Questions on [A06: It's In Your Genes](https://docs.google.com/document/d/116qwZdy8nwQJIV8NUjHHebqTs_NezXfEgtCq3msRMVk/edit?usp=sharing)?
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???**
-    - [HERE](https://classroom.github.com/a/cwMQNYY4) is some example code to get you started with GUIs and keyboard-responsive Turtles.
+    - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
     - Work on [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1qX-XlebRiRN_px7sTMu0S-Im3cK2DNA8hlnb7OCS4fQ/edit?usp=sharing).
     - Launch [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing).
   - **After class**:
