@@ -2,6 +2,18 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 29: Monday, March 27, 2023
+  - **In class**:
+    - Questions on [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132599)?
+    - Quiz Q15
+    - Questions on [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing)?
+    - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
+    - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
+    - Launch [T09: Oh, the Places You'll Go!](https://docs.google.com/document/d/12sYBdGl5znntzpHU3_khIivN0oI1WJW5WAn2wszMlJI/edit?usp=sharing).
+  - **After class**:
+    - Reading for [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132690) is posted.  **It is due on Friday**.
+    - Complete [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing).
+
 ## Day 28: Friday, March 24, 2023
   - **In class**:
     - Questions on [Chapter 17: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132190)?
@@ -10,7 +22,6 @@
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
     - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
     - Work on [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1qX-XlebRiRN_px7sTMu0S-Im3cK2DNA8hlnb7OCS4fQ/edit?usp=sharing).
-    - Launch [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing).
   - **After class**:
     - Reading for [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132599) is posted.  **It is due on Monday**.
     - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing).
