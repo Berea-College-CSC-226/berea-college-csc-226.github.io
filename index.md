@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 31: Friday, March 31, 2023
+  - **In class**:
+    - Questions on [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=132690)?
+    - Quiz Q16
+    - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
+    - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
+    - Launch [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+  - **After class**:
+    - Reading for [Chapter 15: GUI and Event-Driven Programming Part 1: 15.1 - 15.15](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133175) is posted.  **It is due on Monday**.
+    - Work on [A08: Caesar Ciphers](https://docs.google.com/document/d/1ZT_sHjUVKRvkTBCWNiX2auElEP2p7FtH5SL1ZzXi6NM/edit?usp=sharing).
+
 ## Day 30: Wednesday, March 29, 2023
   - **In class**:
     - Debrief [A07: UPC Barcodes](https://docs.google.com/document/d/1UWDSXqkKBSx8f22wPUauKy8GzqOMH_iW6YzW5Ph_o5U/edit?usp=sharing)?
