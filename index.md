@@ -2,8 +2,6 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
-https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133366
-
 ## Day 32: Monday, Apr 3, 2023
   - **In class**:
     - Questions on [Chapter 15: GUI and Event-Driven Programming Part 1: 15.1 - 15.15](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133175)?
