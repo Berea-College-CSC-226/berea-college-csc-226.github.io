@@ -7,7 +7,8 @@
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
     - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
     - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
-    - Launch [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
+    - Launch [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing) **due in two weeks!**.
+    - Launch [AR3: Exam 2 Review Prep](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing).  **It is due on Monday**.
   - **After class**:
     - Reading for [Chapter 15: GUI and Event-Driven Programming Part 2: 15.16 - 15.30](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133366) is posted.  **It is due on Monday**.
     - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
