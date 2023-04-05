@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 33: Wednesday, Apr 5, 2023
+  - **In class**:
+    - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
+    - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
+    - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+    - Launch [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
+  - **After class**:
+    - Reading for [Chapter 15: GUI and Event-Driven Programming Part 2: 15.16 - 15.30](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133366) is posted.  **It is due on Monday**.
+    - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
+
 ## Day 32: Monday, Apr 3, 2023
   - **In class**:
     - Questions on [Chapter 15: GUI and Event-Driven Programming Part 1: 15.1 - 15.15](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133175)?
