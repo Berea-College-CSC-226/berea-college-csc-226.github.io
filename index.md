@@ -4,6 +4,8 @@
 
 ## Day 34: Monday, Apr 10, 2023
   - **In class**:
+    - Questions on [Chapter 15: GUI and Event-Driven Programming Part 2: 15.16 - 15.30](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=133366)?
+    - Quiz Q18
     - Questions on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing)?
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
     - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
