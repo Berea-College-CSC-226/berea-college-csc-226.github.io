@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2023 Offering
 
+## Day 36: Friday, Apr 14, 2023
+  - **In class**:
+    - Questions on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing)?
+    - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
+    - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
+    - Finish [TR2: Review for Exam 2](https://docs.google.com/document/d/1hOawPGyvbzbCD0Djs7-xgyp9NqHEGZzpK3hOx7Ud22E/edit?usp=sharing).
+    - [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/1CimFCzSU_v_5EXu6qKS24vTPZZS8LFOp_opY2ulSX3s/edit?usp=sharing) is available.
+    - **Questions need to be entered in Peerwise by midnight TONIGHT!**
+  - **After class**
+    - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
+
 ## Day 35: Wednesday, Apr 12, 2023
   - **In class**:
     - Questions on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing)?
