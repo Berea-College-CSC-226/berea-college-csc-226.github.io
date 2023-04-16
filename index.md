@@ -7,7 +7,7 @@
     - Questions on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing)?
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
     - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
-    - Launch **EXAM 2 REVIEW!**
+    - Launch **[EXAM 2 REVIEW](https://docs.google.com/document/d/1W6jRnw6q6oCagNbokBcZDj_IF5Rn3Cwhe8SviI1TksU/edit?usp=sharing)!**
     - [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/1CimFCzSU_v_5EXu6qKS24vTPZZS8LFOp_opY2ulSX3s/edit?usp=sharing) is available.
   - **After class**
     - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
