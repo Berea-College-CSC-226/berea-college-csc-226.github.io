@@ -12,6 +12,7 @@
   - **After class**
     - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
     - Study!  The exam is on **Friday 28 Apr**
+    - [Instructor evaluations](https://webapps.berea.edu/ieqs/) are open!  Fill this out 4 me plzkthx.
 
 ## Day 36: Friday, Apr 14, 2023
   - **In class**:
