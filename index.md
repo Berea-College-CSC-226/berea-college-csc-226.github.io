@@ -9,10 +9,12 @@
     - [HERE](https://docs.google.com/document/d/1bMwwFwss-FP-_cngoIGVuaIqsJRndK2fQvpVkTBelx4/edit?usp=sharing) is some example code to get you started with GUIs and keyboard-responsive Turtles.
     - Questions/comments on **[EXAM 2 REVIEW](https://docs.google.com/document/d/1W6jRnw6q6oCagNbokBcZDj_IF5Rn3Cwhe8SviI1TksU/edit?usp=sharing)**?
     - [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/1CimFCzSU_v_5EXu6qKS24vTPZZS8LFOp_opY2ulSX3s/edit?usp=sharing) is available.
+    - Launch [Dr. Jan's Assignment](https://bit.ly/csc226-class-consent).  **It is due NEXT WEDNESDAY**
   - **After class**
     - Work on [A09: PPM](https://docs.google.com/document/d/1SMHhayEuLTPu-3UP0eGP-gU_oXqZTZv8JYSYT26vkJ8/edit?usp=sharing).
     - Study!  The exam is on **Friday 28 Apr**
     - [Instructor evaluations](https://webapps.berea.edu/ieqs/) are open!  Fill this out 4 me plzkthx.
+    - Work on [Dr. Jan's Assignment](https://bit.ly/csc226-class-consent).
 
 
 ## Day 37: Monday, Apr 17, 2023
