@@ -4,6 +4,7 @@
 
 ## Day 40: Monday, Apr 24, 2023
   - **In class**:
+    - **DR. AMY NICHOLS!**
     - **[E2 Review KEY](https://docs.google.com/document/d/15pMzbxWFO1xmmffizcQeSZXR71kvaGMulul1z4qvX_s/edit?usp=sharing)**
     - Questions on [THE FINAL PROJECT](https://docs.google.com/document/d/1G0B8ZWYY-xREQHxaxcc7pZE0CqnS77smLR0wApqlCZY/edit?usp=sharing)???
     - Questions/comments on **[EXAM 2 REVIEW](https://docs.google.com/document/d/1W6jRnw6q6oCagNbokBcZDj_IF5Rn3Cwhe8SviI1TksU/edit?usp=sharing)**?
